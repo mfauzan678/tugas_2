@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "beat",
+      "description": "Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis qui modi qui. bvhgghfdfdxdxdfdggxfxfxfgxfxfxfxfgxfxfxfxfxfxfdfcsgcss",
+      "imageUrl": "/img/motor1.jpg",
+      "budget": 16000000,
+      "isActive": false,
+      "id": "1"
+    },
+    {
+      "name": "vario ",
+      "description": "Re-contextualized dynamic moratorium. Aut nulla soluta numquam qui dolor architecto et facere dolores.",
+      "imageUrl": "/img/motor2.jpg",
+      "budget": 30000000,
+      "isActive": true,
+      "id": "2"
+    },
+    {
+      "name": "supra x",
+      "description": "Innovative 6th generation model. Perferendis libero qui iusto et ullam cum sint molestias vel.",
+      "imageUrl": "/img/motor3.jpg",
+      "budget": 1500000,
+      "isActive": true,
+      "id": "3"
+    },
+    {
+      "name": "revo ",
+      "description": "Managed logistical migration. Qui quod praesentium accusamus eos hic non error modi et.",
+      "imageUrl": "/img/motor4.jpg",
+      "budget": 2000000,
+      "isActive": true,
+      "id": "4"
+    },
+    {
+      "name": "ninja",
+      "description": "Monitored explicit methodology. Rem quos maxime amet autem beatae quisquam excepturi sint velit.",
+      "imageUrl": "/img/motor5.jpg",
+      "budget": 2000000000,
+      "isActive": true,
+      "id": "5"
+    }
+  ]
+}
